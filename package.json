@@ -1,0 +1,1 @@
+{"description":"Fortune Cookie Wisdom for Developers — one original fortune-cookie line for a software developer (make.fun entry)","license":"MIT","main":"main.ts","name":"soft-reboot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
